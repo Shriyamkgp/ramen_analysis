@@ -66,3 +66,5 @@ Here I create a new dataframe named Ramen_spicy by extracting the rows where spi
 I imported seaborn in this section to use it's categorical plot feature. The final graph have been ploted for dataframe Ramen and dataframe Ramen_Nissin (shown).
 
 ![](https://github.com/Shriyamkgp/ramen_analysis/blob/6b6ef49b2e1c063b025cda25c8242e2f47b8a631/Media/18.png)
+
+Refer to Jupyter Notebook file for conclusions from Analysis.
